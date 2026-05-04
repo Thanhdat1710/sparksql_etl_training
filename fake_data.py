@@ -16,7 +16,7 @@ INACTIVE_RATE = 0.003
 TRANS_MIN = 30000
 TRANS_MAX = 35000
 
-S3_BUCKET = "etl-s3-demo-311"
+S3_BUCKET = "etldata"
 S3_PREFIX_USER = "storage/user"
 S3_PREFIX_TRANS = "storage/transaction"
 
